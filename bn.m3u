@@ -2,3 +2,5 @@
 
 #EXTINF-:-1 tvg-id="AstroRia.my",Astro Ria
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u
+#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106_300.png" group-title="Islamic",Astro Oasis
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
